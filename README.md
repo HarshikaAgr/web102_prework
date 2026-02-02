@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video controls src="website video walkthrough-1.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/03cc1f0a-253e-4728-baf0-ae42c2f0e703
+
 <!--
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 Replace this with whatever GIF tool you used! -->
