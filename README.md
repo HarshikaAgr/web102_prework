@@ -1,32 +1,34 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Harshika Agrawal**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality! => Added a search function to search for any game quickly and easily
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
+<video controls src="website video walkthrough-1.mp4" title="Title"></video>
+<!--
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Replace this with whatever GIF tool you used! -->
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Snipping Tool.  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +36,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. 
+One challenge I faced while building the app was adding the search bar. At first, the search only worked if the user typed the exact name of a game already shown on the website, which was confusing. I fixed this by updating the app to display a message saying “No games found for your search” when there were no matching results.
 
 ## License
 
